@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I'm Psalmuel, a junior software developer.
+
+
 
 <!--
 **psalmyvan/psalmyvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
