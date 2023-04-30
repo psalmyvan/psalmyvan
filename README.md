@@ -1,6 +1,15 @@
 ### Hi there 👋
 ### I'm Psalmuel, a junior software developer.
 
+👀 I'm actively looking for job opportunities in either web development or cloud computing  
+🌱 I recently finished a specialization course about Cloud Computing in Coursera  
+
+## Languages/Frameworks  
+_________________________________________________________________________________________________________
+
+
+## Socials
+_________________________________________________________________________________________________________
 
 
 <!--
