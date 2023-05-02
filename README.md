@@ -26,7 +26,10 @@ ________________________________________________________________________________
 
 <br>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=psalmyvan&theme=react&line_height=40&hide=css"/> </a>
+## STATS  <br>
+____________________________________________________________________________________________________________________  
+
+<a href="https://github.com/psalmyvan"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=psalmyvan&langs_count=10&theme=react&line_height=40&hide=css"/> </a>
 
 
 <!--
