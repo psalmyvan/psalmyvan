@@ -3,7 +3,7 @@
 <br>
 👀 I'm actively looking for job opportunities in either web development or cloud computing  <br>
 🌱 I recently finished a specialization course about Cloud Computing in Coursera <br>
-	:trophy: I participate in the Leetcode Weekly and Biweekly Contests whenever possible. (Current rating : 1494, Top 44.31%) <br>
+	:trophy: I participate in the Leetcode Weekly and Biweekly Contests whenever possible. (Current rating : 1499, Top 42.73%) <br>
 
 ## Languages/Frameworks  
 _________________________________________________________________________________________________________
