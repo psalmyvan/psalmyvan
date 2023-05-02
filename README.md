@@ -25,6 +25,10 @@ ________________________________________________________________________________
 [<img src="https://user-images.githubusercontent.com/110161745/235554233-6e3ce77b-c386-4a6f-a290-820bbf210619.png" width="170">](https://www.linkedin.com/in/psalmuelyvan/) [<img src="https://user-images.githubusercontent.com/110161745/235554237-13b4afe2-a522-4283-baef-1902cad12a87.png" width="170">](https://leetcode.com/psalmuelyvan/) [<img src="https://user-images.githubusercontent.com/110161745/235554522-711d79a4-46e9-4c56-b873-287b3e59f685.png" width="170">](https://www.hackerrank.com/psalmuelyvan)
 
 <br>
+
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=psalmyvan&theme=react&line_height=40&hide=css"/> </a>
+
+
 <!--
 **psalmyvan/psalmyvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
