@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
  
 
-<img src="https://user-images.githubusercontent.com/110161745/235550799-f6973a62-8649-4a61-9ec0-9bab5c449788.png" width="100"> <img src="https://user-images.githubusercontent.com/110161745/235551548-2307690e-04e1-43ed-b348-13cdcd32c209.png" width="50"> <img src="https://user-images.githubusercontent.com/110161745/235551756-6d830449-a98d-4aa8-8a82-89a0265c1851.png" width="45"> <img src="https://user-images.githubusercontent.com/110161745/235553465-81dc8a3d-3d3d-4e3a-a985-915f7cc3611d.png" width="60">  <img src="https://user-images.githubusercontent.com/110161745/235553469-4ddfe226-89c7-409c-9cc5-4155a6482875.png" width="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1280px-Svelte_Logo.svg.png?20191219133350" width="40"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo-1024x640.png" width="70"> <img src="https://user-images.githubusercontent.com/110161745/235550799-f6973a62-8649-4a61-9ec0-9bab5c449788.png" width="100"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" width="50"> <img src="https://user-images.githubusercontent.com/110161745/235551548-2307690e-04e1-43ed-b348-13cdcd32c209.png" width="50"> <img src="https://user-images.githubusercontent.com/110161745/235551756-6d830449-a98d-4aa8-8a82-89a0265c1851.png" width="45"> <img src="https://user-images.githubusercontent.com/110161745/235553465-81dc8a3d-3d3d-4e3a-a985-915f7cc3611d.png" width="60">  <img src="https://user-images.githubusercontent.com/110161745/235553469-4ddfe226-89c7-409c-9cc5-4155a6482875.png" width="60">
 
 
 
