@@ -1,9 +1,11 @@
 ### Hi there 👋
-### I'm Psalmuel, a junior software developer.
+### I'm Psalmuel, a software developer.
 <br>
 👀 I'm actively looking for job opportunities in either web development or cloud computing  <br>
 🌱 I recently finished a specialization course about Cloud Computing in Coursera <br>
 	:trophy: I participate in the Leetcode Weekly and Biweekly Contests whenever possible. (Current rating : 1528, Top 34.93%) <br>
+
+My current website : www.psalmyvan.xyz
 
 ## Languages/Frameworks  
 _________________________________________________________________________________________________________
