@@ -3,7 +3,7 @@
 <br>
 👀 I'm actively looking for job opportunities in either web development or cloud computing  <br>
 🌱 I recently finished a specialization course about Cloud Computing in Coursera <br>
-	:trophy: I participate in the Leetcode Weekly and Biweekly Contests whenever possible. (Current rating : 1528, Top 34.93%) <br>
+	:trophy: I participate in the Leetcode Weekly and Biweekly Contests whenever possible. (Current rating : 1528, Top 34.93%) <br><br>
 
 My current website : www.psalmyvan.xyz
 
